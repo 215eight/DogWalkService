@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SEDogWalkCoreData",
+        "repositoryURL": "git@github.com:215eight/DogWalkCoreData.git",
+        "state": {
+          "branch": "main",
+          "revision": "7f7e134a37215b382bc8c957c754792708fa309e",
+          "version": null
+        }
+      },
+      {
+        "package": "SEPlatform",
+        "repositoryURL": "git@github.com:215eight/SEPlatform.git",
+        "state": {
+          "branch": "main",
+          "revision": "623e7527fc3cf465a304c24a1d75b8bc85da28fc",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
